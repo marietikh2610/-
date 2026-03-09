@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "выходы метро",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n251645002", "osm_id": "251645002", "osm_type": "node", "railway": "subway_entrance", "wheelchair": "yes", "ref": "2", "operator": "ГУП «Московский метрополитен»", "network": "Московский метрополитен", "entrance": "yes", "colour": "blue" }, "geometry": { "type": "Point", "coordinates": [ 37.4005105, 55.8039222 ] } },
+{ "type": "Feature", "properties": { "full_id": "n359639723", "osm_id": "359639723", "osm_type": "node", "railway": "subway_entrance", "wheelchair": "no", "ref": "8", "operator": "ГУП «Московский метрополитен»", "network": "Московский метрополитен", "entrance": "yes", "colour": "blue" }, "geometry": { "type": "Point", "coordinates": [ 37.404273, 55.8031094 ] } },
+{ "type": "Feature", "properties": { "full_id": "n683406568", "osm_id": "683406568", "osm_type": "node", "railway": "subway_entrance", "wheelchair": "no", "ref": "7", "operator": "ГУП «Московский метрополитен»", "network": "Московский метрополитен", "entrance": "yes", "colour": "blue" }, "geometry": { "type": "Point", "coordinates": [ 37.4051807, 55.8029235 ] } },
+{ "type": "Feature", "properties": { "full_id": "n683406583", "osm_id": "683406583", "osm_type": "node", "railway": "subway_entrance", "wheelchair": "no", "ref": "5", "operator": "ГУП «Московский метрополитен»", "network": "Московский метрополитен", "entrance": "yes", "colour": "blue" }, "geometry": { "type": "Point", "coordinates": [ 37.4047807, 55.8038301 ] } },
+{ "type": "Feature", "properties": { "full_id": "n683406606", "osm_id": "683406606", "osm_type": "node", "railway": "subway_entrance", "wheelchair": "no", "ref": "1", "operator": "ГУП «Московский метрополитен»", "network": "Московский метрополитен", "entrance": "yes", "colour": "blue" }, "geometry": { "type": "Point", "coordinates": [ 37.4014132, 55.8037277 ] } },
+{ "type": "Feature", "properties": { "full_id": "n683406657", "osm_id": "683406657", "osm_type": "node", "railway": "subway_entrance", "wheelchair": "no", "ref": "6", "operator": "ГУП «Московский метрополитен»", "network": "Московский метрополитен", "entrance": "yes", "colour": "blue" }, "geometry": { "type": "Point", "coordinates": [ 37.4056841, 55.8036342 ] } }
+]
+}
